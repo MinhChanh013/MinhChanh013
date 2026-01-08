@@ -43,7 +43,7 @@
       height="25"
       width="25" /></a
   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://stackoverflow.com/users/17825063"
+    href="https://www.linkedin.com/in/ch%C3%A1nh-nguy%E1%BB%85n-minh-641034196/"
     target="blank"
     ><img
       align="center"
@@ -52,7 +52,7 @@
       height="25"
       width="25" /></a
   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://dribbble.com/https://dribbble.com/foveromw"
+    href="https://www.facebook.com/nguyen.minh.chanh.988678/"
     target="blank"
     ></a>
 

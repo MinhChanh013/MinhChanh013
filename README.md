@@ -35,7 +35,7 @@
 
 <h3 align="left">🚀 Connect me :</h3>
 <p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/https://codepen.io/fovero-mw" target="blank"
+  <a href="https://www.linkedin.com/in/ch%C3%A1nh-nguy%E1%BB%85n-minh-641034196/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -43,7 +43,7 @@
       height="25"
       width="25" /></a
   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-    href="https://www.linkedin.com/in/ch%C3%A1nh-nguy%E1%BB%85n-minh-641034196/"
+    href="https://www.facebook.com/nguyen.minh.chanh.988678/"
     target="blank"
     ><img
       align="center"
